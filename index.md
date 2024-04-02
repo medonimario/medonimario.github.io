@@ -34,7 +34,7 @@ The crime map indicated that while police ramped up arrests in specific district
 
 ## Subsection title
 
-<iframe src="/data/bokeh_plot.html" width="100%" height="610px"></iframe>
+<iframe src="/data/bokeh_plot.html" width="100%" height="620px"></iframe>
 
 
 ### Header 3
